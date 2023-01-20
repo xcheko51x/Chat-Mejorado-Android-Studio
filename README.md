@@ -1,5 +1,5 @@
 # Chat-Mejorado-Android-Studio
-###Chat sencillo usando MySQL, PHP, Volley, Java y Android Studio
+##Chat sencillo usando MySQL, PHP, Volley, Java y Android Studio
 
 Mejora del Chat creado anteriormente en el canal
 
