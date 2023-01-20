@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="URL_LOGIN"> http://192.168.1.8/EjemploChat/login.php </string>
+    <string name="URL_USUARIOS"> http://192.168.1.8/EjemploChat/obtenerUsuarios.php </string>
+
+    <string name="URL_ENVIAR_MENSAJE"> http://192.168.1.8/EjemploChat/insertarMensaje.php </string>
+    <string name="URL_ENVIAR_MENSAJE_GRUPAL"> http://192.168.1.8/EjemploChat/insertarMensajeGrupal.php </string>
+
+    <string name="URL_OBTENER_MENSAJES"> http://192.168.1.8/EjemploChat/obtenerMensajes.php </string>
+    <string name="URL_OBTENER_MENSAJES_GRUPAL"> http://192.168.1.8/EjemploChat/obtenerMensajesGrupales.php </string>
+</resources>
